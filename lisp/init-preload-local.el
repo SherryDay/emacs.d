@@ -28,5 +28,5 @@
 (global-set-key (kbd "C-x 4 r") 'winner-redo)
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
-(load-theme 'hickey t)
+(load-theme 'retro-green t)
 (provide 'init-preload-local)
