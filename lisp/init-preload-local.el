@@ -27,7 +27,7 @@
 (global-set-key (kbd "C-x 4 u") 'winner-undo)
 (global-set-key (kbd "C-x 4 r") 'winner-redo)
 
-(elpy-enable)
+(elpy-enable) 
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (load-theme 'afternoon t)
